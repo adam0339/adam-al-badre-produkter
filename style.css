@@ -1,0 +1,22 @@
+.adam{
+    background-color: rebeccapurple;
+    font-size: 30px;
+
+
+}
+
+body{
+    background-color: beige;
+
+}
+
+.container {
+    display: flex;
+}
+
+.item {
+    display: flex;
+    flex-grow: 1;
+    height: 100px;
+}
+
